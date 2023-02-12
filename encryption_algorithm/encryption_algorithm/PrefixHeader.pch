@@ -1,0 +1,19 @@
+//
+//  PrefixHeader.pch
+//  encryption_algorithm
+//
+//  Created by xinxi on 2021/6/17.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#define UserInfoClass            CHDKSALI458
+#define isVipWithAccount         KDKSLQWIP45
+
+#define EncryptionToolsClass     KDKSLJDK556
+#define encryptString            KDKSLUEKD41
+#define keyString                KDKSLUDJW36
+
+
+#endif /* PrefixHeader_pch */
